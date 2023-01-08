@@ -1,4 +1,3 @@
 com/practice/springdemo/config/DemoAppConfig.class
 com/practice/springdemo/config/MySpringMvcDispatcherServletInitializer.class
-com/example/spring_rest_demo/HelloServlet.class
 com/practice/springdemo/rest/DemoRestController.class
